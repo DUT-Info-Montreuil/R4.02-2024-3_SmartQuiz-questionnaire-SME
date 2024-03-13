@@ -1,7 +1,7 @@
 package org.univ_paris8.iut.montreuil.qdev.tp2024.gr3.SmartQuiz.entities.dto;
 
-import org.univ_paris8.iut.montreuil.qdev.tp2024.gr3.SmartQuiz.utiles.Difficulte;
-import org.univ_paris8.iut.montreuil.qdev.tp2024.gr3.SmartQuiz.utiles.Langue;
+import org.univ_paris8.iut.montreuil.qdev.tp2024.gr3.SmartQuiz.utiles.Enum.Difficulte;
+import org.univ_paris8.iut.montreuil.qdev.tp2024.gr3.SmartQuiz.utiles.Enum.Langue;
 
 import java.util.Objects;
 
