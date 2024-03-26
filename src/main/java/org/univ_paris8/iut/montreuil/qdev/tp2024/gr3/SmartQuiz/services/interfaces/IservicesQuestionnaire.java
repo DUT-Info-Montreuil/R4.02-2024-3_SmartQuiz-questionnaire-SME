@@ -9,6 +9,6 @@ import java.util.List;
 
 public interface IservicesQuestionnaire {
 
-    public List<QuestionnaireDTO> chargerQuestionnaire(String addresseFichierCSV) throws NombreColoneIncorrect, FormatIncorrect, IdQuestionnaireNonInteger, IdQuestionNonInteger, LangueNonReconnue, NiveauNonReconnue, ReferenceNonUrl, FileNotFoundException;
+    public List<QuestionnaireDTO> chargerQuestionnaire(String addresseFichierCSV) throws NombreColoneIncorrect, FormatIncorrect, IdQuestionnaireNonInteger, IdQuestionNonInteger, LangueNonReconnue, NiveauNonReconnue, ReferenceNonUrl, FileNotFoundException, FichierVideException;
 
 }
